@@ -1,0 +1,41 @@
+// ==============================
+// Override Variables
+// 覆盖变量
+// ==============================
+$primary-color: #FFD700;
+$primary-color-light: #ffd7007a;
+$secondary-color: #444444;
+$dark-color: #3c4858;
+$black-color: #161c2d;
+
+// Color of the blockquote
+$blockquote-color: $primary-color-light;
+$blockquote-color-dark: $primary-color;
+// ========== Selection ========== //
+// Color of the selected text
+$selection-color: $primary-color-light;
+$selection-color-dark: $primary-color-light;
+// ========== Single Content ========== //
+// Color of the single link
+$single-link-color: $primary-color;
+$single-link-color-dark: $primary-color-light;
+
+// Color of the hover single link
+$single-link-hover-color: $primary-color;
+$single-link-hover-color-dark: $primary-color-light;
+// ========== Header ========== //
+// Color of the header background
+$header-background-color: #f8f8f8;
+$header-background-color-dark: $secondary-color;
+
+// Color of the hover header item
+$header-hover-color: $primary-color;
+$header-hover-color-dark: $primary-color;
+
+// Color of the search background
+$search-background-color-dark: $dark-color;
+// ========== Header ========== //
+$global-link-hover-color: $primary-color;
+$global-link-hover-color-dark: $primary-color;
+
+$cookie-banner-bg: $primary-color;

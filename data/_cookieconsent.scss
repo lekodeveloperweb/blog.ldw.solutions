@@ -1,0 +1,21 @@
+.cc-window.cc-banner {
+  background-color: $cookie-banner-bg !important;
+
+  .cc-btn {
+    color: $global-font-color;
+
+    &:hover,
+    &:focus {
+      background-color: #ccc;
+    }
+
+    [theme=dark] & {
+      color: $global-font-color;
+
+      &:hover,
+      &:focus {
+        background-color: #fff;
+      }
+    }
+  }
+}
