@@ -10,7 +10,7 @@ toc:
 ---
 
 There was the exact word that I used in a Google search recently, and it was challenging to find the correct answer. In the end, I didn't find it. So, I'm writing my solution to help others with that familiar doubt.
-First, we must install Jenkins Docker; you can find how in the official documentation [here](https://www.jenkins.io/doc/book/installing/docker/).
+First, we must install Jenkins Docker; you can discover how in the official documentation [here](https://www.jenkins.io/doc/book/installing/docker/).
 
 But, if you only follow the documentation, you can run Jenkins to build standard pipelines and almost all kinds of projects. However, if you try to run a "Dockerized" project, you'll receive a permission access error.
 
