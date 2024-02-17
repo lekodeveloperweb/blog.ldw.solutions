@@ -139,7 +139,7 @@ params:
     content:
       message: ""
       dismiss: ""
-      link: ""
+      link: "https://ldw.solutions/privacy-policy"
   compatibility:
     polyfill: false
     objectFit: false
@@ -192,5 +192,5 @@ outputs:
   taxonomy:
     - HTML
     - RSS
-  taxonomyTerm:
+  taxonomy:
     - HTML
